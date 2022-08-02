@@ -5,6 +5,6 @@ print('About to load CSV: school-teacher-workforce-1.csv')
 data <- read.csv('data/school-teacher-workforce-1.csv')
 print('Loaded CSV')
 
-print('About to save CSV: school-teacher-workforce-2.csv')
-write.csv(data, 'data/school-teacher-workforce-2.csv')
+print('About to save CSV: school-teacher-workforce-3.csv')
+write.csv(data, 'data/school-teacher-workforce-3.csv')
 print('Saved CSV')
